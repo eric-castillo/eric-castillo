@@ -28,5 +28,6 @@ I build and ship production software end to end: database, API, web and mobile a
 
 ## Get in touch
 
+- Portfolio: 
 - LinkedIn: [linkedin.com/in/eric-fabian-dev](https://www.linkedin.com/in/eric-fabian-dev)
 - Email: eric.castillo.dev@gmail.com
